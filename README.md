@@ -30,3 +30,11 @@ Gallbladder diseases often go undiagnosed in early stages. Early prediction usin
 ---
 
 
+| Model               | Accuracy | ROC-AUC | F1 Score |
+| ------------------- | -------- | ------- | -------- |
+| Random Forest       | 94.2%    | 0.93    | 0.91     |
+| Logistic Regression | 91.5%    | 0.89    | 0.88     |
+| XGBoost             | 95.1%    | 0.94    | 0.92     |
+
+
+
